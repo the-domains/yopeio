@@ -1,7 +1,7 @@
 name: yopeio
 favicon: null
-layout_spectrum: 0.8755840787198395
-typography_spectrum: 0.504000901710242
+layout_spectrum: 0.98348
+typography_spectrum: 0.89692
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#070d1d'
+    - '#0e4e5a'
+    - '#0d9f92'
+    - '#0c7372'
+    - '#2fc6b3'
   brandStrength: 0.795980176422745
   lightness: 0.986789062153548
-  saturation: 0.760481474455446
-  rhythmicContrast: 0.29830097733065486
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []

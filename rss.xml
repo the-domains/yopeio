@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[yopeio]]></title>
         <description><![CDATA[yopeio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yopeio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 22:51:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 10:18:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yopeio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>this is a title</p>]]></description>
-            <link>undefinede6ba145a-b2ab-4f6a-aba4-b1dc52c25076/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2378fa03-7e71-4c5f-b3f2-381d2c9b40dc.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/yopeio/e6ba145a-b2ab-4f6a-aba4-b1dc52c25076/index.html</link>
             <guid isPermaLink="false">e6ba145a-b2ab-4f6a-aba4-b1dc52c25076</guid>
-            <pubDate>Fri, 11 Dec 2015 22:51:20 GMT</pubDate>
+            <pubDate>Sat, 12 Dec 2015 10:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

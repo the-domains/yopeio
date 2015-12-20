@@ -1,6 +1,6 @@
 name: yopeio
 favicon: null
-layout_spectrum: 0.89232
+layout_spectrum: 0.6586
 typography_spectrum: 0.01753
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#363636'
     - '#9d9d9d'
   brandStrength: 0.8125
-  lightness: 0.986789062153548
+  lightness: 0.4375
   saturation: 0.75
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
